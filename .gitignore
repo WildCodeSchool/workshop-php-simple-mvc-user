@@ -1,0 +1,10 @@
+_site
+.DS_Store
+.vscode
+.idea
+/vendor/
+/temp/*
+.phpcs-cache
+*.cache
+db.php
+
